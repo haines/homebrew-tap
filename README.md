@@ -8,3 +8,8 @@ A [Homebrew tap](https://docs.brew.sh/Taps) to install [my projects](https://git
 ```console
 $ brew tap haines/tap
 ```
+
+
+## Available casks
+
+* [envy](https://github.com/haines/envy)
