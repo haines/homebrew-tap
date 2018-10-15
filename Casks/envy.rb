@@ -5,7 +5,6 @@ cask "envy" do
   url "https://github.com/haines/envy/releases/download/v#{version}/envy-darwin-amd64"
   homepage "https://github.com/haines/envy"
   name "envy"
-  gpg "#{url}.asc", key_id: "6e225dd62262d98aac77f9cdb16a6f178227a23e"
 
   binary "envy-darwin-amd64", target: "envy"
 end
